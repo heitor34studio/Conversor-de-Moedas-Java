@@ -40,7 +40,7 @@ Para abrir e rodar o projeto, siga os seguintes passos:
 
 1. Clone o repositório para o seu ambiente local:
     ```sh
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/heitor34studio/Conversor-de-Moedas-Java.git
     ```
 
 2. Navegue até o diretório do projeto:
